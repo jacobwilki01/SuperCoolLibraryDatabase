@@ -1,1 +1,1 @@
-# SuperCoolLibraryDatabase
+# SuperQoolLibraryDatabase
